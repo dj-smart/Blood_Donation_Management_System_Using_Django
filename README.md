@@ -12,4 +12,4 @@ Some function of our project:
 5) Show some intersting facts about blood
 6) Show who can donated blood.
 7) Show the height weight for a eligble donor.
-some feature are available for all site visiter while all are available for logged in user.
+some features are available for all site visiter while all are available for logged in user.
