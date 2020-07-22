@@ -15,4 +15,4 @@ Some functionalities of our project:
 5) Show some intersting facts about blood
 6) Show who can donate blood
 7) Show the height and weight for a eligible donor
-8) Some features are available for all site visiters whereas some are exclusively available for logged-in uses
+8) Some features are available for all site visiters whereas some are exclusively available for logged-in users
